@@ -8,6 +8,24 @@ Bu loyiha Convolutional Neural Network (CNN) yordamida hujayra tasvirlarida **ma
 - Natijalarni vizual ko‘rish
 - Parazitlangan va sog‘lom hujayralar o‘rtasidagi farqlarni ajratish
 
+  # 🖼 Namuna tasvirlar
+
+### 🦠 Parazitlangan hujayra (yomon)
+![Parazitlangan hujayra](image/yomon.png)
+
+---
+
+### ✅ Sog‘lom hujayra (yaxshi)
+![Sog‘lom hujayra](image/yaxshi.png)
+
+---
+
+## 📊 Modelning natijaviy grafigi
+
+Quyidagi rasmda CNN modelining o‘qitishdagi `accuracy` va `loss` grafigi ko‘rsatilgan:
+
+![Model natijalari grafigi](image/result.png)
+
 ---
 
 ## 📂 Loyiha Tuzilmasi
