@@ -27,15 +27,18 @@ malaria-cnn-classifier/
 └── README.md                 # Loyiha hujjati
 
 🦠 Parazitlangan (Parasitized)
-image.png
+![image](https://github.com/user-attachments/assets/d06fa09b-c1f6-450f-9a3d-bbf3c2137761)
+
 
 
 ✅ Sog‘lom (Uninfected)
-image.png
+![image](https://github.com/user-attachments/assets/6e1c75c4-7561-4131-b864-a0fc2ce3f6a5)
+
 
 oxirgi natija:
 
-image.png
+![image](https://github.com/user-attachments/assets/3e59f1f2-8c61-4f9c-b2ea-39bc3b40228b)
+
 
 Classification Report:
               precision    recall  f1-score   support
