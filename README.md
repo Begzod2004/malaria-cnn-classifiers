@@ -43,6 +43,11 @@ Quyidagi rasmda CNN modelining o‘qitishdagi `accuracy` va `loss` grafigi ko‘
 
 ![Model natijalari grafigi](image/result.png)
 
+
+![image](https://github.com/user-attachments/assets/f34905ea-8802-4f10-9e14-a10a3be392b1)
+
+
+
 Classification Report:
               precision    recall  f1-score   support
 
