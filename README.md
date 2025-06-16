@@ -41,7 +41,8 @@ malaria-cnn-classifier/
 
 Quyidagi rasmda CNN modelining o‘qitishdagi `accuracy` va `loss` grafigi ko‘rsatilgan:
 
-![Image](https://github.com/user-attachments/assets/38d1c874-6cc9-4562-851a-41f8f471076b)
+
+[Image](https://github.com/user-attachments/assets/38d1c874-6cc9-4562-851a-41f8f471076b)
 
 
 
