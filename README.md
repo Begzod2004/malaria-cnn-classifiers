@@ -37,13 +37,9 @@ malaria-cnn-classifier/
 
 ---
 
-## 📊 Modelning natijaviy grafigi
-
-Quyidagi rasmda CNN modelining o‘qitishdagi `accuracy` va `loss` grafigi ko‘rsatilgan:
 
 
-https://github.com/Begzod2004/malaria-cnn-classifiers/blob/6dacf799b0a59359a8757da3e8eb9f4858052216/image/result.png
-![Parazitlangan hujayra](https://github.com/Begzod2004/malaria-cnn-classifiers/blob/6dacf799b0a59359a8757da3e8eb9f4858052216/image/result.png)
+
 
 
 Classification Report:
@@ -59,3 +55,22 @@ weighted avg       0.95      0.95      0.95      5512
 Confusion Matrix:
 [[2627  129]
  [ 168 2588]]
+
+
+# 🖼 Namuna tasvirlar
+
+### 🦠 Parazitlangan hujayra (yomon)
+![Parazitlangan hujayra](image/yomon.png)
+
+---
+
+### ✅ Sog‘lom hujayra (yaxshi)
+![Sog‘lom hujayra](image/yaxshi.png)
+
+---
+
+## 📊 Modelning natijaviy grafigi
+
+Quyidagi rasmda CNN modelining o‘qitishdagi `accuracy` va `loss` grafigi ko‘rsatilgan:
+
+![Model natijalari grafigi](image/result.png)
