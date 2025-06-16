@@ -43,7 +43,7 @@ Quyidagi rasmda CNN modelining o‘qitishdagi `accuracy` va `loss` grafigi ko‘
 
 
 https://github.com/Begzod2004/malaria-cnn-classifiers/blob/6dacf799b0a59359a8757da3e8eb9f4858052216/image/result.png
-
+![Parazitlangan hujayra](https://github.com/Begzod2004/malaria-cnn-classifiers/blob/6dacf799b0a59359a8757da3e8eb9f4858052216/image/result.png)
 
 
 Classification Report:
