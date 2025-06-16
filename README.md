@@ -26,22 +26,16 @@ malaria-cnn-classifier/
 │   └── result_accuracy.png   # Model accuracy grafik natijasi
 └── README.md                 # Loyiha hujjati
 
+🦠 Parazitlangan (Parasitized)
+image.png
 
-### 🦠 Parazitlangan hujayra (yomon)
-![Parazitlangan hujayra](image/yomon.png)
 
----
+✅ Sog‘lom (Uninfected)
+image.png
 
-### ✅ Sog‘lom hujayra (yaxshi)
-![Sog‘lom hujayra](image/yaxshi.png)
+oxirgi natija:
 
----
-
-## 📊 Modelning natijaviy grafigi
-
-Quyidagi rasmda CNN modelining o‘qitishdagi `accuracy` va `loss` grafigi ko‘rsatilgan:
-
-![Model natijalari grafigi](image/result.png)
+image.png
 
 Classification Report:
               precision    recall  f1-score   support
